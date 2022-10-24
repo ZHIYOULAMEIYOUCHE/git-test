@@ -8,6 +8,6 @@ public class firstTest {
         System.out.println("nihao666");
         System.out.println("nihao777");
         System.out.println("nihao888");
-        System.out.println("nihao999");
+        System.out.println("101010");
     }
 }
