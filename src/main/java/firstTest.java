@@ -10,5 +10,6 @@ public class firstTest {
         System.out.println("nihao888");
         System.out.println("101010");
         System.out.println("111199999");
+        System.out.println("pull的操作");
     }
 }
